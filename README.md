@@ -19,6 +19,6 @@ Examples of my code in flutter
 
 ✉️ Reach me out at msfrms@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=msfrms)
+![](https://github-readme-stats.vercel.app/api?username=msfrms&hide=contribs,stars)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msfrms)
