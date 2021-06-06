@@ -17,6 +17,9 @@ Examples of my code in ruby:
 Examples of my code in flutter
 - [Simple music chart](https://github.com/msfrms/TrachFlutter)
 
+My experiments by unit test code generation for Swift (code generator written in python)
+- [Generate unit test for xcode project(Swift) with redux architecture and DevTools](https://github.com/msfrms/UnitTestGenerator)
+
 ✉️ Reach me out at msfrms@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=msfrms&hide=contribs,stars)
