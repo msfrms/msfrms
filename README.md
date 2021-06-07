@@ -24,4 +24,4 @@ My experiments by unit test code generation for Swift (code generator written in
 
 ![](https://github-readme-stats.vercel.app/api?username=msfrms&hide=contribs,stars)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=msfrms&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=msfrms&langs_count=10)
