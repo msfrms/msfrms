@@ -14,7 +14,7 @@ Examples of my code in swift:
 Examples of my code in ruby:
 - [Generator assets for develop ios app](https://github.com/msfrms/SwiftFigmaGenerator)
 
-Examples of my code in flutter
+Examples of my code in dart(flutter)
 - [Simple music chart](https://github.com/msfrms/TrachFlutter)
 
 My experiments by unit test code generation for Swift (code generator written in python)
