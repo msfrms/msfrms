@@ -20,6 +20,9 @@ Examples of my code in flutter
 My experiments by unit test code generation for Swift (code generator written in python)
 - [Generate unit test for xcode project(Swift) with redux architecture and DevTools](https://github.com/msfrms/UnitTestGenerator)
 
+Examples of my code in scala:
+- [Simple implementation work with push notification in android](https://github.com/msfrms/PushNotificationServer)
+
 ✉️ Reach me out at msfrms@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=msfrms&hide=contribs,stars)
