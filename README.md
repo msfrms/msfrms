@@ -23,6 +23,7 @@ My experiments by unit test code generation for Swift (code generator written in
 Examples of my code in scala:
 - [Simple implementation work with push notification in android](https://github.com/msfrms/PushNotificationServer)
 - [Simple example analyze stocks](https://github.com/msfrms/StocksAnalyzer)
+- [Automated tinder like photo](https://github.com/msfrms/TinderAutoLike)
 
 ✉️ Reach me out at msfrms@gmail.com
 
