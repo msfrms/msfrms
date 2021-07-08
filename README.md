@@ -25,6 +25,9 @@ Examples of my code in scala:
 - [Simple example analyze stocks](https://github.com/msfrms/StocksAnalyzer)
 - [Automated tinder like photo](https://github.com/msfrms/TinderAutoLike)
 
+Examples of my code in js:
+- [Simple example recognize captcha with nodejs, express, onnx](https://github.com/msfrms/CaptchaSolver)
+
 ✉️ Reach me out at msfrms@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=msfrms&hide=contribs,stars)
