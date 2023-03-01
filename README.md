@@ -7,6 +7,7 @@ Examples of my code in swift:
 - [Functional work with services](https://github.com/msfrms/ServiceSwift)
 - [Simple work with Future](https://github.com/msfrms/ConcurrentSwift)
 - [Simple work with video in clean architecture and data driven](https://github.com/msfrms/SpliceApp)
+- [Simple example with Apple Sound Analysis](https://github.com/msfrms/FunnySound)
 - [Simple implementation of redux](https://github.com/msfrms/SReduxSwift)
 - [DevTools from redux for js, port in swift](https://github.com/msfrms/MonitorDevToolsSwift)
 - [Simple wrapper over AsyncDisplayKit](https://github.com/msfrms/ADKUtils)
