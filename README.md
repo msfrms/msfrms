@@ -30,6 +30,9 @@ Examples of my code in scala:
 Examples of my code in js:
 - [Simple example recognize captcha with nodejs, express, onnx](https://github.com/msfrms/CaptchaSolver)
 
+Examples of my code in typescript, react, redux:
+- [Music Analytics service](https://github.com/msfrms/MusicAnalyticsFront)
+
 ✉️ Reach me out at msfrms@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=msfrms&hide=contribs,stars)
