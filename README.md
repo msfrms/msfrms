@@ -2,14 +2,14 @@
 I'm Radaev Mikhail a passionate iOS developer from Moscow, Russia
 
 Examples of my code in swift:
+- [Simple example with Apple Sound Analysis](https://github.com/msfrms/FunnySound)
 - [Simple client for meduza.io with redux architecture and data driven](https://github.com/msfrms/ReduxNewsReader)
 - [Simple news reader of Meduza.io with clean architecture and data driven](https://github.com/msfrms/NewsReader)
-- [Functional work with services](https://github.com/msfrms/ServiceSwift)
-- [Simple work with Future](https://github.com/msfrms/ConcurrentSwift)
 - [Simple work with video in clean architecture and data driven](https://github.com/msfrms/SpliceApp)
-- [Simple example with Apple Sound Analysis](https://github.com/msfrms/FunnySound)
 - [Simple implementation of redux](https://github.com/msfrms/SReduxSwift)
 - [DevTools from redux for js, port in swift](https://github.com/msfrms/MonitorDevToolsSwift)
+- [Functional work with services](https://github.com/msfrms/ServiceSwift)
+- [Simple work with Future](https://github.com/msfrms/ConcurrentSwift)
 - [Simple wrapper over AsyncDisplayKit](https://github.com/msfrms/ADKUtils)
 
 My experiments by unit test code generation for Swift (code generator written in python)
