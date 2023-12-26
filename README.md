@@ -4,6 +4,7 @@ I'm Radaev Mikhail a passionate iOS developer from Moscow, Russia
 Examples of my code in swift:
 - [Simple example with Apple Sound Analysis](https://github.com/msfrms/FunnySound)
 - [Custom player without AVPlayer](https://github.com/msfrms/CustomPlayer)
+- [FFmpeg based player](https://github.com/msfrms/FFmpegPlayer)
 - [Simple client for meduza.io with redux architecture and data driven](https://github.com/msfrms/ReduxNewsReader)
 - [Simple news reader of Meduza.io with clean architecture and data driven](https://github.com/msfrms/NewsReader)
 - [Simple work with video in clean architecture and data driven](https://github.com/msfrms/SpliceApp)
